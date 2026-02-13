@@ -1,0 +1,14 @@
+# engrammer lesskey configuration for LESS
+# h→down, t→up, s→left, n→right (engrammer layout)
+
+# Primary htsn mappings
+h    forw-line
+t    back-line
+s    repeat-search
+\es  repeat-search-all
+n    reverse-search
+\en  reverse-search-all
+
+# Fallback standard keys
+j    forw-line
+k    back-line
